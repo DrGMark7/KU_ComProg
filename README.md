@@ -33,4 +33,4 @@ Before starting this course, it is recommended that you have a basic understandi
 To get started with this repository, you can clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/DrGMark7/basic-python-programming.git
+git clone https://github.com/DrGMark7/KU_ComProg.git
